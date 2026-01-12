@@ -15,10 +15,10 @@
 
 ## 🚀 Featured Projects
 
-| Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | Tech |
+| Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | Tech |
 | :--- | :--- | :--- |
 | **[blazelog](https://github.com/good-yellow-bee/blazelog)** | A blazing fast, flexible, and structured logging library. | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square) |
-| &nbsp;&nbsp;└─&nbsp;**[blazelog-mobile](https://github.com/good-yellow-bee/blazelog-mobile)** | Mobile companion application for real-time log monitoring. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square) |
+| &nbsp;&nbsp;└─&nbsp;**[blazelog&#8209;mobile](https://github.com/good-yellow-bee/blazelog-mobile)** | Mobile companion application for real-time log monitoring. | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square) |
 | **[matre](https://github.com/good-yellow-bee/matre)** | MATRE - Magento Automated Test Run Environment. Enterprise-grade test automation orchestration for Magento 2. | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square) |
 | **[cryptowatcher](https://github.com/good-yellow-bee/cryptowatcher)** | Simple TUI cryptocurrency price tracker. | ![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat-square) |
 
